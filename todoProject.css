@@ -1,0 +1,22 @@
+.total{
+    text-align: center;
+    background-color: bisque;
+}
+.prop{
+text-align: center;
+    background-color: gray;
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800;
+    font-size: 25px;
+    height: 30px;
+    width: 400px;
+    list-style-type: none;
+}
+.delprop{
+    background-color: blueviolet;
+    border-radius: 50%;
+    height: 25px;
+    width: 25px;
+    margin-left:300px;
+}

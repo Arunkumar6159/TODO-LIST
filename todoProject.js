@@ -1,0 +1,13 @@
+let inp = document.createElement('input');
+let butt = document.createElement('button');
+butt.innerText="textme!!!";
+document.querySelector('body').append(inp);
+document.querySelector('body').append(butt);
+butt.setAttribute('id','btn');
+inp.setAttribute('placeholder','username');
+let x=document.querySelector('#btn');
+x.classList.add('bt');
+let h=document.createElement('h1');
+h.innerText="DOM practice";
+h.classList.add('k');
+document.querySelector('body').append(h);
